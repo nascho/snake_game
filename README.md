@@ -76,6 +76,7 @@ When the program starts a window will appear for you to interact with the game.
 
 ## Future Development
 
-In the future I would like to look at adding different levels and with each increase in level would also increase the speed of the snake. 
+In the future I would like to look at adding different levels and with each increase in level would also increase the speed of the snake.
+<br>
 In the meantime you can manually increase the speed by increasing the number in **_FRAME_RATE_** line 119.
 
